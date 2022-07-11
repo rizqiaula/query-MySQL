@@ -1,5 +1,5 @@
 # Query MySQL
-#### This is a code repository for learning some SQL advanced using MySQL, the data used are [dummy_data](https://github.com/rizqiaula/query-MySQL/blob/main/dummy_data.sql) and [3_odds](https://github.com/rizqiaula/query-MySQL/blob/main/3_odds.sql).
+#### This is a code repository for learning some advanced SQL queries using MySQL, the data used are [dummy_data](https://github.com/rizqiaula/query-MySQL/blob/main/dummy_data.sql) and [3_odds](https://github.com/rizqiaula/query-MySQL/blob/main/3_odds.sql).
 ----
 ## Setup
 #### Copy the code inside the [dummy_data](https://github.com/rizqiaula/query-MySQL/blob/main/dummy_data.sql) and [3_odds](https://github.com/rizqiaula/query-MySQL/blob/main/3_odds.sql) file, paste it into MySQL Workbench, and run it.
